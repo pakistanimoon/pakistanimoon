@@ -27,7 +27,7 @@ I specialize in building scalable software platforms, architecting systems with 
 ## 💻 Tech Stack  
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PgSql](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=pgsql&logoColor=white)
+![PgSql](https://img.shields.io/badge/PgSQL-339933?style=for-the-badge&logo=pgsql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
