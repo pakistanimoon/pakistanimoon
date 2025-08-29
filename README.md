@@ -45,7 +45,7 @@ I specialize in building scalable software platforms, architecting systems with 
 ## 📝 Latest Articles  
 <!-- BLOG-POST-LIST:START -->
 - [Digital Technology Leadership 2025 & Beyond – Towards Impact](https://www.linkedin.com/pulse/digital-technology-leadership-2025-beyond-towards-impact-qamer-dkhzf/)  
-- [Bridging the Gap Between Talent & Opportunity](https://www.linkedin.com/pulse/paradox-todays-job-market-bridging-gap-between-talent-qamer/)  
+- [Bridging the Gap Between Talent & Opportunity](https://www.linkedin.com/pulse/bridging-hiring-gap-why-companies-cant-find-people-jobs-qamer-py9mf/)  
 <!-- BLOG-POST-LIST:END -->
 
 ---
