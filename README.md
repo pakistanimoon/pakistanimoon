@@ -40,6 +40,13 @@ I specialize in building scalable software platforms, architecting systems with 
 🔹 [**Career Planning App**](#) – Helping users explore and plan their career paths  
 🔹 [**Covim System**](#) – Real-time Covid Vaccine Supply Chain Management system  
 
+---
+
+## 📝 Latest Articles  
+<!-- BLOG-POST-LIST:START -->
+- [Digital Technology Leadership 2025 & Beyond – Towards Impact](https://www.linkedin.com/pulse/digital-technology-leadership-2025-beyond-towards-impact-qamer-dkhzf/)  
+- [Bridging the Gap Between Talent & Opportunity](https://www.linkedin.com/pulse/paradox-todays-job-market-bridging-gap-between-talent-qamer/)  
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
